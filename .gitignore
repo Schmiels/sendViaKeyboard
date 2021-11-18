@@ -130,3 +130,4 @@ dmypy.json
 
 # testdata
 testdata.txt
+testoutput.txt
